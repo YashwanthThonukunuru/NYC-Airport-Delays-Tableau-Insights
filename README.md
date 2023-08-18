@@ -16,7 +16,7 @@ In this project, I have investigated various aspects of flight delays from diffe
 
 ## Tableau Dashboard
 
-Explore our Tableau dashboard to visualize the findings from our analysis:
+Explore my Tableau dashboard to visualize the findings from data analysis:
 
 🔗 [Access Tableau Dashboard](https://public.tableau.com/app/profile/yashwanth.thonukunuru/viz/FlightsDelayatNYCAirport-Final/TheAirlinesStory?publish=yes)
 
