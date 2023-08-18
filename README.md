@@ -1,1 +1,26 @@
 # NYC-Airport-Delays-Tableau-Insights
+
+## Project Overview:
+
+In this project, I have investigated various aspects of flight delays from different New York City airports using a dataset that includes flight, airport, plane, carrier, and weather information. The goal of this project is to leverage Tableau for data analysis and visualization, following are the objectives of theis project 
+
+-Evaluating delays for different airlines.
+-Analyzing delays based on destination airports and distances.
+-Investigating reasons for delays.
+-Observing changes in delays over time.
+-Identifying the routes with the highest delays.
+
+## Tableau Dashboard
+
+Explore our Tableau dashboard to visualize the findings from our analysis:
+
+🔗 [Access Tableau Dashboard]([link_to_your_tableau_dashboard](https://public.tableau.com/app/profile/yashwanth.thonukunuru/viz/FlightsDelayatNYCAirport-Final/TheAirlinesStory?publish=yes))
+
+## Dataset:
+
+The dataset stems from the year 2013 and can be enriched with newer data from sources like https://www.transtats.bts.gov/DataIndex.asp. It consists of several database tables containing information about flights, airports, planes, carriers, and weather.
+
+## Approach:
+
+To accomplish the objetvives of this project, I have used Tableau for creating insightful visualizations. The analysis is driven by a combination of domain knowledge and exploratory data analysis. I've used SQLite Studio to perform complex queries that are challenging to execute in Tableau. These queries are then exported as CSV files and loaded into Tableau for further visualization.
+
