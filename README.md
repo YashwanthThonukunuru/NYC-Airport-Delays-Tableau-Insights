@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-In this project, I have investigated various aspects of flight delays from different New York City airports using a dataset that includes flight, airport, plane, carrier, and weather information. The goal of this project is to leverage Tableau for data analysis and visualization, following are the objectives of theis project 
+In this project, I have investigated various aspects of flight delays from different New York City airports using a dataset that includes flight, airport, plane, carrier, and weather information. The goal of this project is to leverage Tableau for data analysis and visualization, following are the objectives of this project 
 
 - **Evaluating Delays for Different Airlines**
 
